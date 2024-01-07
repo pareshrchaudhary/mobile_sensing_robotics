@@ -7,5 +7,3 @@
 * [Observation Models](https://github.com/pareshrchaudhary/mobile_sensing_robotics/blob/main/Observation_Models.ipynb)
 * [EKF Localization](https://github.com/pareshrchaudhary/mobile_sensing_robotics/blob/main/EKF_Localization.ipynb)
 * [Monte Carlo Localization](https://github.com/pareshrchaudhary/mobile_sensing_robotics/blob/main/Monte_Carlo_Localization.ipynb)
-* [Iterative Closest Point](https://github.com/pareshrchaudhary/mobile_sensing_robotics/blob/main/Iterative_Closest_Point.ipynb)
-
